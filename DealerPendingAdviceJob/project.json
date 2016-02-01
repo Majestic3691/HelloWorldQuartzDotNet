@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0-*",
+  "description": "DealerPendingAdviceJob Class Library",
+  "authors": [ "MTRConsulting" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "net451": {
+      "dependencies": {
+        "Common.Logging": "3.3.1"
+      }
+    },
+    "dotnet5.4": {
+      "dependencies": {    }
+    }
+  },
+  "dependencies": {
+    "Quartz": "2.3.3"
+  }
+}
